@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="195f7c15-249c-48e1-a82d-068cc08ab509" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-228183713">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="69" />
+          <entry key="csproj" value="1" />
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="69" />
+          <entry key="Csproj" value="1" />
+          <entry key="JSON" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="8924" />
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="8924" />
+          <entry key="JSON" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecipeNavigator/Data/SqliteDataSource.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+              <folding>
+                <marker date="1542340228666" expanded="true" signature="6:148" ph="..." />
+                <marker date="1542340228666" expanded="true" signature="175:4050" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="238:4048" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="325:378" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="437:594" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="682:1045" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="948:1009" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="1136:1536" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="1433:1506" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="1598:3559" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="2363:2432" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="3608:3970" ph="{...}" />
+                <marker date="1542340228666" expanded="true" signature="3998:4042" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecipeNavigator/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <marker date="1542341859938" expanded="true" signature="6:33" ph="..." />
+                <marker date="1542341859938" expanded="true" signature="60:1391" ph="{...}" />
+                <marker date="1542341859938" expanded="true" signature="80:1389" ph="{...}" />
+                <marker date="1542341859938" expanded="true" signature="235:1383" ph="{...}" />
+                <marker date="1542341859938" expanded="true" signature="425:560" ph="{...}" />
+                <marker date="1542341859938" expanded="true" signature="702:840" ph="{...}" />
+                <marker date="1542341859938" expanded="true" signature="919:1081" ph="{...}" />
+                <marker date="1542341859938" expanded="true" signature="1146:1224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecipeNavigator/Views/RecipeView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="123" selection-start-line="123" selection-end-line="136" selection-end-column="9" />
+              <folding>
+                <marker date="1542342787529" expanded="true" signature="6:98" ph="..." />
+                <marker date="1542342787529" expanded="true" signature="125:3832" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="167:2547" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="446:2141" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="563:707" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="789:951" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="1034:1190" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="1258:1392" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="1496:1630" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="1733:1867" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="2188:2436" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="2479:2540" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="2570:2747" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="2696:2741" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="2785:3830" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="2949:3052" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="3109:3335" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="3235:3313" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="3375:3629" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="3392:3619" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="3499:3571" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="3665:3824" ph="{...}" />
+                <marker date="1542342787529" expanded="true" signature="3711:3814" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RecipeNavigator/Views/ProductSelectorView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+              <folding>
+                <marker date="1542342808478" expanded="true" signature="6:86" ph="..." />
+                <marker date="1542342808478" expanded="true" signature="113:1066" ph="{...}" />
+                <marker date="1542342808478" expanded="true" signature="164:1064" ph="{...}" />
+                <marker date="1542342808478" expanded="true" signature="401:738" ph="{...}" />
+                <marker date="1542342808478" expanded="true" signature="588:693" ph="{...}" />
+                <marker date="1542342808478" expanded="true" signature="778:1058" ph="{...}" />
+                <marker date="1542342808478" expanded="true" signature="795:1048" ph="{...}" />
+                <marker date="1542342808478" expanded="true" signature="902:1000" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Entit</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7540A5DA-343D-4E6A-AC2A-6190E339F993/74/a2f238c0/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/91/9bdae29a/ScrollBarView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/50/f698d8ad/ScrollView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ea/4581562f/ListView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/4d/0a8d96fb/KeyEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/540A30D0-A031-4084-807D-B058D5033896/84/c613e025/IList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/169509FE-0D17-46F4-A4E8-1E551016B219/fc/45c65647/ustring.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/23/c37d45c4/TextModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/66/981d7877/TextView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/be/e09d985e/View.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Views/ProductSelectorView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ee/32df1516/Responder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/70/c86d0e83/Attribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/13/6574bfc0/Window.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Data/SqliteDataSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Data/IDataSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Data/SqlDataSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/d0/4f959cce/Label.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Views/RecipeView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Models/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Models/Recipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/19/c766162b/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ae/64735f1d/Dim.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/71/e9e1dcef/TextField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/4f/a4eeac5c/Rect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RecipeNavigator/Models/RecipeRaw.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ee/58536434/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/79/586721bc/FrameView.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ae/17c50a47/IListDataSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/02/9d0b1fd5/Pos.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RecipeNavigator/Demo.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Recipe.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/data/entities.json" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/RecipeBuilder.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/IDataSource.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/DataSource.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/SqlDataSource.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/RecipeRaw.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/RecipeSelectorView.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Models/Product.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Views/RecipeSelectorView.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Models/Recipe.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Models/RecipeRaw.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Data/IDataSource.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Data/SqlDataSource.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Data/SqliteDataSource.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Program.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Views/RecipeView.cs" />
+        <option value="$PROJECT_DIR$/RecipeNavigator/Views/ProductSelectorView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RecipeNavigator" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RecipeNavigator" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RecipeNavigator" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/RecipeNavigator/bin/Debug/netcoreapp2.1/RecipeNavigator.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecipeNavigator" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="1" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RecipeNavigator/RecipeNavigator.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13672496" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.3299532" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3299532" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299532" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299532" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39937598" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ee/58536434/Button.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/71/e9e1dcef/TextField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="89" column="19" selection-start-line="89" selection-start-column="19" selection-end-line="89" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/19/c766162b/Application.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/70/c86d0e83/Attribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/169509FE-0D17-46F4-A4E8-1E551016B219/fc/45c65647/ustring.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1278">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/d0/4f959cce/Label.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="134" column="24" selection-start-line="134" selection-start-column="24" selection-end-line="134" selection-end-column="24" />
+          <folding>
+            <marker date="1542257302850" expanded="true" signature="0:302" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1542257302850" expanded="true" signature="310:403" ph="..." />
+            <marker date="1542257302850" expanded="true" signature="427:6841" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="432:547" ph="/// Label view, displays a string at a given position, can include multiple lines. ... " />
+            <marker date="1542257302850" expanded="true" signature="575:6839" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="635:664" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="935:1293" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="1055:1243" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="1088:1203" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="1299:1611" ph="///   Public constructor: creates a label at the given ... " />
+            <marker date="1542257302850" expanded="true" signature="1703:1715" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="1721:1910" ph="///   Public constructor: creates a label at the given ... " />
+            <marker date="1542257302850" expanded="true" signature="1971:2007" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="2013:2237" ph="/// Public constructor: creates a label and configures the default Width and Height based on the text, the result ... " />
+            <marker date="1542257302850" expanded="true" signature="2268:2426" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="2515:3488" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="3083:3429" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="3209:3324" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="3346:3421" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="3515:3642" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="3750:4287" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="3823:3909" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="3920:4281" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="4045:4273" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="4116:4263" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="4333:5404" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="4670:5398" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="4732:5390" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="4841:5313" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="5410:5703" ph="/// Computes the number of lines needed to render the specified text by the Label control ... " />
+            <marker date="1542257302850" expanded="true" signature="5763:5925" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6020:6204" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6036:6078" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6088:6198" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6210:6382" ph="/// Controls the text-alignemtn property of the label, changing it will redisplay the label. ... " />
+            <marker date="1542257302850" expanded="true" signature="6421:6588" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6437:6488" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6498:6582" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6676:6835" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6692:6739" ph="{...}" />
+            <marker date="1542257302850" expanded="true" signature="6749:6829" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Demo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="171" column="21" selection-start-line="171" selection-start-column="21" selection-end-line="171" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/540A30D0-A031-4084-807D-B058D5033896/84/c613e025/IList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/data/entities.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/RecipeBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ae/64735f1d/Dim.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1422">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/13/6574bfc0/Window.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/4f/a4eeac5c/Rect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="145" column="11" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/79/586721bc/FrameView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/02/9d0b1fd5/Pos.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="148" column="22" selection-start-line="148" selection-start-column="22" selection-end-line="148" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7540A5DA-343D-4E6A-AC2A-6190E339F993/74/a2f238c0/IEnumerable`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/91/9bdae29a/ScrollBarView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/50/f698d8ad/ScrollView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ae/17c50a47/IListDataSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/23/c37d45c4/TextModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Models/Recipe.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <marker date="1542332571195" expanded="true" signature="25:1442" ph="{...}" />
+            <marker date="1542332571195" expanded="true" signature="51:1440" ph="{...}" />
+            <marker date="1542332571195" expanded="true" signature="725:777" ph="{...}" />
+            <marker date="1542332571195" expanded="true" signature="820:1434" ph="{...}" />
+            <marker date="1542332571195" expanded="true" signature="949:1097" ph="{...}" />
+            <marker date="1542332571195" expanded="true" signature="1135:1283" ph="{...}" />
+            <marker date="1542332571195" expanded="true" signature="1344:1399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Models/RecipeRaw.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <marker date="1542332596112" expanded="true" signature="25:890" ph="{...}" />
+            <marker date="1542332596112" expanded="true" signature="54:888" ph="{...}" />
+            <marker date="1542332596112" expanded="true" signature="720:882" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/66/981d7877/TextView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="373" column="17" selection-start-line="373" selection-start-column="17" selection-end-line="373" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ee/32df1516/Responder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Data/SqlDataSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <marker date="1542336788667" expanded="true" signature="6:76" ph="..." />
+            <marker date="1542336788667" expanded="true" signature="103:3833" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="150:3831" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="371:585" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="510:575" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="673:1117" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="860:1081" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="988:1070" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="1208:1644" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="1411:1614" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="1533:1606" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="1713:3692" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="2332:3682" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="2482:2551" ph="{...}" />
+            <marker date="1542336788667" expanded="true" signature="3748:3825" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Data/IDataSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <marker date="1542336264045" expanded="true" signature="60:324" ph="{...}" />
+            <marker date="1542336264045" expanded="true" signature="95:322" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/RecipeNavigator.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Models/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <marker date="1542329327579" expanded="true" signature="25:256" ph="{...}" />
+            <marker date="1542329327579" expanded="true" signature="52:254" ph="{...}" />
+            <marker date="1542329327579" expanded="true" signature="185:248" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/ea/4581562f/ListView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3992">
+          <caret line="235" column="25" selection-start-line="235" selection-start-column="25" selection-end-line="235" selection-end-column="25" />
+          <folding>
+            <marker date="1542260762062" expanded="true" signature="0:305" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1542260762062" expanded="true" signature="313:360" ph="..." />
+            <marker date="1542260762062" expanded="true" signature="384:13384" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="389:1637" ph="///ListView widget renders a list of data. ... " />
+            <marker date="1542260762062" expanded="true" signature="1668:13382" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="1793:1975" ph="/// Gets or sets the IListDataSource backing this view, use SetSource() if you want to set a new IList source. ... " />
+            <marker date="1542260762062" expanded="true" signature="2009:2297" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="2025:2069" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="2079:2291" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="2303:2511" ph="/// Sets the source to an IList value, if you want to set a full IListDataSource, use the Source property. ... " />
+            <marker date="1542260762062" expanded="true" signature="2551:2823" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="2829:3080" ph="/// Gets or sets a value indicating whether this &lt;see cref=&quot;T:Terminal.Gui.ListView&quot; /&gt; allows items to be marked ... " />
+            <marker date="1542260762062" expanded="true" signature="3110:3277" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3126:3177" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3187:3271" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3283:3427" ph="/// Gets or sets the item that is displayed at the top of the listview ... " />
+            <marker date="1542260762062" expanded="true" signature="3450:3711" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3466:3507" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3517:3705" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3717:3825" ph="///Gets or sets the currently selecteded item. ... " />
+            <marker date="1542260762062" expanded="true" signature="3853:4345" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3869:3915" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="3925:4339" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="4126:4182" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="4195:4331" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="4407:4484" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="4490:4857" ph="/// Initializes a new ListView that will display the contents of the object implementing the IList interface, wit ... " />
+            <marker date="1542260762062" expanded="true" signature="4934:5072" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="5078:5476" ph="/// Initializes a new ListView that will display the provided data source, uses relative positioning. ... " />
+            <marker date="1542260762062" expanded="true" signature="5520:5672" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="5678:6104" ph="/// Initializes a new ListView that will display the contents of the object implementing the IList interface with ... " />
+            <marker date="1542260762062" expanded="true" signature="6198:6336" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="6342:6798" ph="/// Initializes a new ListView that will display the provided data source  with an absolute position ... " />
+            <marker date="1542260762062" expanded="true" signature="6872:7024" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="7030:7118" ph="///Redraws the ListView ... " />
+            <marker date="1542260762062" expanded="true" signature="7163:8024" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="7419:8018" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="7630:7709" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="7747:7901" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="8030:8130" ph="/// This event is raised when the cursor selection has changed. ... " />
+            <marker date="1542260762062" expanded="true" signature="8177:8416" ph="/// Handles cursor movement for this view, passes all other events. ... " />
+            <marker date="1542260762062" expanded="true" signature="8465:10860" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="8493:10854" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="8610:9026" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="8848:8978" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="9136:9545" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="9367:9497" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="9797:10211" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="10033:10163" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="10398:10768" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="10590:10720" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="10964:11022" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="11074:11400" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="11449:13378" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="11643:11768" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="11792:11873" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="11812:11865" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="11948:12588" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="12066:12500" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="12333:12456" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="12667:13056" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="13094:13211" ph="{...}" />
+            <marker date="1542260762062" expanded="true" signature="13260:13372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/4d/0a8d96fb/KeyEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/64352C73-738C-445B-8409-20DAA4733664/be/e09d985e/View.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="744" column="47" lean-forward="true" selection-start-line="744" selection-start-column="47" selection-end-line="744" selection-end-column="47" />
+          <folding>
+            <marker date="1542258007417" expanded="true" signature="0:301" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1542258007417" expanded="true" signature="309:409" ph="..." />
+            <marker date="1542258007417" expanded="true" signature="433:33473" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="438:4249" ph="/// View is the base class for all views on the screen and represents a visible element that can render itself an ... " />
+            <marker date="1542258007417" expanded="true" signature="4294:33471" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="4303:4475" ph="/// Points to the current driver in use by the view, it is a convenience property ... " />
+            <marker date="1542258007417" expanded="true" signature="4972:5109" ph="/// This returns a list of the subviews contained by this view. ... " />
+            <marker date="1542258007417" expanded="true" signature="5141:5300" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="5157:5294" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="5373:5475" ph="///Gets or sets an identifier for the view; ... " />
+            <marker date="1542258007417" expanded="true" signature="5533:5774" ph="/// Gets or sets a value indicating whether this &lt;see cref=&quot;T:Terminal.Gui.View&quot; /&gt; want mouse position reports. ... " />
+            <marker date="1542258007417" expanded="true" signature="5843:6130" ph="///Gets or sets the frame for the view. ... " />
+            <marker date="1542258007417" expanded="true" signature="6160:6511" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="6176:6219" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="6229:6505" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="6273:6396" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="6517:6662" ph="/// Gets an enumerator that enumerates the subviews in this view. ... " />
+            <marker date="1542258007417" expanded="true" signature="6701:6811" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="6817:7146" ph="/// Controls how the view's Frame is computed during the LayoutSubviews method, if Absolute, then ... " />
+            <marker date="1542258007417" expanded="true" signature="7181:7343" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="7197:7246" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="7256:7337" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="7349:7588" ph="/// The bounds represent the View-relative rectangle used for this view.   Updates to the Bounds update the Frame ... " />
+            <marker date="1542258007417" expanded="true" signature="7611:7794" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="7627:7698" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="7708:7788" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="7800:8057" ph="/// Gets or sets the X position for the view (the column).  This is only used when the LayoutStyle is Computed, i ... " />
+            <marker date="1542258007417" expanded="true" signature="8074:8216" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8090:8129" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8139:8210" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8222:8480" ph="/// Gets or sets the Y position for the view (line).  This is only used when the LayoutStyle is Computed, if the ... " />
+            <marker date="1542258007417" expanded="true" signature="8497:8639" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8513:8552" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8562:8633" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8645:8878" ph="/// Gets or sets the width for the view. This is only used when the LayoutStyle is Computed, if the ... " />
+            <marker date="1542258007417" expanded="true" signature="8899:9049" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8915:8958" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="8968:9043" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="9055:9290" ph="/// Gets or sets the height for the view. This is only used when the LayoutStyle is Computed, if the ... " />
+            <marker date="1542258007417" expanded="true" signature="9312:9464" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="9328:9372" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="9382:9458" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="9470:9642" ph="/// Returns the container for this view, or null if this view has not been added to a container. ... " />
+            <marker date="1542258007417" expanded="true" signature="9668:9737" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="9684:9731" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="9743:10129" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:Terminal.Gui.View&quot; /&gt; class with the absolute ... " />
+            <marker date="1542258007417" expanded="true" signature="10157:10271" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="10277:10531" ph="/// Initializes a new instance of the &lt;see cref=&quot;T:Terminal.Gui.View&quot; /&gt; class and sets the ... " />
+            <marker date="1542258007417" expanded="true" signature="10549:10637" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="10643:10793" ph="/// Invoke to flag that this view needs to be redisplayed, by any code ... " />
+            <marker date="1542258007417" expanded="true" signature="10827:10880" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="10916:11097" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="11103:11303" ph="/// Flags the specified rectangle region on this view as needing to be repainted. ... " />
+            <marker date="1542258007417" expanded="true" signature="11348:12057" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="11777:12051" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="11835:12043" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="12063:12169" ph="/// Flags this view for requiring the children views to be repainted. ... " />
+            <marker date="1542258007417" expanded="true" signature="12205:12346" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="12352:12440" ph="///Adds a subview to this view. ... " />
+            <marker date="1542258007417" expanded="true" signature="12479:12751" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="12757:12909" ph="///Adds the specified views to the view. ... " />
+            <marker date="1542258007417" expanded="true" signature="12950:13062" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="13068:13172" ph="///Removes all the widgets from this container. ... " />
+            <marker date="1542258007417" expanded="true" signature="13208:13397" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="13301:13391" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="13403:13500" ph="///Removes a widget from this container. ... " />
+            <marker date="1542258007417" expanded="true" signature="13542:13961" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="13856:13955" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="13967:14169" ph="///Clears the view region with the current color. ... " />
+            <marker date="1542258007417" expanded="true" signature="14193:14462" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="14318:14456" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="14468:14572" ph="///   Clears the specfied rectangular region with the current color ... " />
+            <marker date="1542258007417" expanded="true" signature="14602:14853" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="14709:14847" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="14859:15423" ph="/// Converts the (col,row) position from the view into a screen (col,row).  The values are clamped to (0..ScreenD ... " />
+            <marker date="1542258007417" expanded="true" signature="15521:15945" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="15689:15775" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="15951:16227" ph="/// Converts a point from screen coordinates into the view coordinate space. ... " />
+            <marker date="1542258007417" expanded="true" signature="16271:16503" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="16545:16717" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="16757:17163" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="17169:17398" ph="/// Sets the Console driver's clip region to the current View's Bounds. ... " />
+            <marker date="1542258007417" expanded="true" signature="17429:17481" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="17487:17753" ph="/// Sets the clipping region to the specified region, the region is view-relative ... " />
+            <marker date="1542258007417" expanded="true" signature="17788:17960" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="17966:18320" ph="/// Draws a frame in the current view, clipped by the boundary of this view ... " />
+            <marker date="1542258007417" expanded="true" signature="18393:18643" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="18649:18955" ph="///Utility function to draw strings that contain a hotkey ... " />
+            <marker date="1542258007417" expanded="true" signature="19042:19383" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="19146:19377" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="19178:19244" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="19257:19369" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="19389:19855" ph="/// Utility function to draw strings that contains a hotkey using a colorscheme and the &quot;focused&quot; state. ... " />
+            <marker date="1542258007417" expanded="true" signature="19933:20107" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="20113:20335" ph="/// This moves the cursor to the specified column and row in the view. ... " />
+            <marker date="1542258007417" expanded="true" signature="20374:20515" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="20521:20656" ph="///   Positions the cursor in the right position based on the currently focused view in the chain. ... " />
+            <marker date="1542258007417" expanded="true" signature="20697:20838" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="20844:21049" ph="/// Gets or sets a value indicating whether this &lt;see cref=&quot;T:Terminal.Gui.View&quot; /&gt; has focus. ... " />
+            <marker date="1542258007417" expanded="true" signature="21083:21287" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="21099:21145" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="21164:21281" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="21293:21453" ph="/// Returns the currently focused view inside this view, or null if nothing is focused. ... " />
+            <marker date="1542258007417" expanded="true" signature="21477:21544" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="21493:21538" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="21550:21722" ph="/// Returns the most focused view in the chain of subviews (the leaf view that has the focus). ... " />
+            <marker date="1542258007417" expanded="true" signature="21750:21909" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="21766:21903" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="21915:22055" ph="/// The color scheme for this view, if it is not defined, it returns the parent's ... " />
+            <marker date="1542258007417" expanded="true" signature="22090:22305" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="22106:22239" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="22249:22299" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="22311:22532" ph="/// Displays the specified character in the specified column and row. ... " />
+            <marker date="1542258007417" expanded="true" signature="22583:22762" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="22768:22884" ph="/// Removes the SetNeedsDisplay and the ChildNeedsDisplay setting on this view. ... " />
+            <marker date="1542258007417" expanded="true" signature="22923:23010" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="23016:23496" ph="/// Performs a redraw of this view and its subviews, only redraws the views that have been flagged for a re-displ ... " />
+            <marker date="1542258007417" expanded="true" signature="23540:24087" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="23637:24049" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="23693:24041" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="23776:24031" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="24093:24188" ph="///Focuses the specified sub-view. ... " />
+            <marker date="1542258007417" expanded="true" signature="24224:24749" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="24904:25033" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="25191:25441" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="25331:25415" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="25600:25851" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="25740:25825" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="25857:26024" ph="/// Finds the first view in the hierarchy that wants to get the focus if nothing is currently focused, otherwise, ... " />
+            <marker date="1542258007417" expanded="true" signature="26054:26139" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26247:26553" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26286:26341" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26352:26547" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26408:26539" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26450:26529" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26659:26962" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26777:26956" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26877:26948" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="26968:27106" ph="///Focuses the previous view. ... " />
+            <marker date="1542258007417" expanded="true" signature="27134:28076" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="27255:27318" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="27401:27843" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="27501:27604" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="27652:27835" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="27864:27927" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="27959:28050" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="28082:28212" ph="///Focuses the next view. ... " />
+            <marker date="1542258007417" expanded="true" signature="28240:29144" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="28361:28441" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="28550:28995" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="28633:28736" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="28784:28987" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="29027:29118" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="29150:29331" ph="/// Computes the RelativeLayout for the view, given the frame for its container. ... " />
+            <marker date="1542258007417" expanded="true" signature="29380:30278" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="29451:29610" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="29621:29797" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="29863:30029" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="30040:30222" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="30385:31327" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="30671:31217" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="30965:31209" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="31333:31566" ph="/// This virtual method is invoked when a view starts executing or ... " />
+            <marker date="1542258007417" expanded="true" signature="31607:33028" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="31859:32538" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="31952:32530" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="32810:32989" ph="{...}" />
+            <marker date="1542258007417" expanded="true" signature="33034:33303" ph="/// Returns a &lt;see cref=&quot;T:System.String&quot; /&gt; that represents the current &lt;see cref=&quot;T:Terminal.Gui.View&quot; /&gt;. ... " />
+            <marker date="1542258007417" expanded="true" signature="33341:33467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1542341859938" expanded="true" signature="6:33" ph="..." />
+            <marker date="1542341859938" expanded="true" signature="60:1391" ph="{...}" />
+            <marker date="1542341859938" expanded="true" signature="80:1389" ph="{...}" />
+            <marker date="1542341859938" expanded="true" signature="235:1383" ph="{...}" />
+            <marker date="1542341859938" expanded="true" signature="425:560" ph="{...}" />
+            <marker date="1542341859938" expanded="true" signature="702:840" ph="{...}" />
+            <marker date="1542341859938" expanded="true" signature="919:1081" ph="{...}" />
+            <marker date="1542341859938" expanded="true" signature="1146:1224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Data/SqliteDataSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+          <folding>
+            <marker date="1542340228666" expanded="true" signature="6:148" ph="..." />
+            <marker date="1542340228666" expanded="true" signature="175:4050" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="238:4048" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="325:378" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="437:594" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="682:1045" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="948:1009" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="1136:1536" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="1433:1506" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="1598:3559" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="2363:2432" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="3608:3970" ph="{...}" />
+            <marker date="1542340228666" expanded="true" signature="3998:4042" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Views/RecipeView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="123" selection-start-line="123" selection-end-line="136" selection-end-column="9" />
+          <folding>
+            <marker date="1542342787529" expanded="true" signature="6:98" ph="..." />
+            <marker date="1542342787529" expanded="true" signature="125:3832" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="167:2547" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="446:2141" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="563:707" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="789:951" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="1034:1190" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="1258:1392" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="1496:1630" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="1733:1867" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="2188:2436" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="2479:2540" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="2570:2747" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="2696:2741" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="2785:3830" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="2949:3052" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="3109:3335" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="3235:3313" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="3375:3629" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="3392:3619" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="3499:3571" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="3665:3824" ph="{...}" />
+            <marker date="1542342787529" expanded="true" signature="3711:3814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecipeNavigator/Views/ProductSelectorView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <marker date="1542342808478" expanded="true" signature="6:86" ph="..." />
+            <marker date="1542342808478" expanded="true" signature="113:1066" ph="{...}" />
+            <marker date="1542342808478" expanded="true" signature="164:1064" ph="{...}" />
+            <marker date="1542342808478" expanded="true" signature="401:738" ph="{...}" />
+            <marker date="1542342808478" expanded="true" signature="588:693" ph="{...}" />
+            <marker date="1542342808478" expanded="true" signature="778:1058" ph="{...}" />
+            <marker date="1542342808478" expanded="true" signature="795:1048" ph="{...}" />
+            <marker date="1542342808478" expanded="true" signature="902:1000" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

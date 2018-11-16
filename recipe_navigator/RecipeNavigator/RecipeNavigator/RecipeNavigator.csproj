@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="1.50.5" />
+      <PackageReference Include="System.Data.SQLite.Core" Version="1.0.109.2" />
+      <PackageReference Include="Terminal.Gui" Version="0.16.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="factoria_db.db" />
+      <Content Include="factoria_db.db">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+</Project>
