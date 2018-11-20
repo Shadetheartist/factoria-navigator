@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.1</TargetFramework>
+        <RootNamespace>RecipeNavigator.DataSource</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="1.50.5" />
+      <PackageReference Include="System.Data.SQLite.Core" Version="1.0.109.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="factoria_db.db" />
+      <Content Include="factoria_db.db">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+</Project>
