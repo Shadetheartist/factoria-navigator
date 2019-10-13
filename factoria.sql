@@ -49,10 +49,10 @@ insert into Products (Id, ProductName) values
 (0, 'nothing'),
 
 --t1
-(1, 'dirt'), 
+(1, 'mud'), 
 (2, 'coal'),
-(3, 'iron ore'),
-(4, 'copper ore'),
+(3, 'platinum ore'),
+(4, 'lead ore'),
 (5, 'tin ore'),
 (6, 'water'),
 (7, 'mineral rich dirt'),
@@ -107,13 +107,13 @@ insert into Recipes (RecipeName, Tier, Product_Id, Product_Amount, Ticks, Ingred
 
 --T3
 ('make filter material',	3,   16, 2,  32,   8,  8,   11, 8), --filter material
-('extract gold ore',		3,   17, 2, 128,   15, 8,   10, 8), --gold ore
-('extract silver ore',		3,   18, 2,  64,   15, 8,   10, 8), --silver ore
-('forge bronze ingot',		3,   19, 2,  32,   12, 2,   13, 2), --bronze ingot
+('extract platinum ore',		3,   17, 2, 128,   15, 8,   10, 8), --platinum ore
+('extract gold ore',		3,   18, 2,  64,   15, 8,   10, 8), --gold ore
+('forge plastic ingot',		3,   19, 2,  32,   12, 2,   13, 2), --plastic ingot
 ('forge steel ingot',		3,   20, 2,  32,   12, 6,   11, 2), --steel ingot
 ('forge iron plate',		3,   21, 2,  16,   12, 4,   0,  0), --iron plate
 ('forge copper plate',		3,   22, 2,  24,   12, 4,   0,  0), --copper plate
-('forge tin plate',			3,   23, 2,  24,   12, 4,   0,  0), --tin plate
+('forge lead plate',			3,   23, 2,  24,   12, 4,   0,  0), --lead plate
 
 --T4
 ('forge steel plate',	4,  24, 2, 64,  20, 4,  0, 0), --steel plate
